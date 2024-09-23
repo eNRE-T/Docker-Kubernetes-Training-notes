@@ -12,6 +12,8 @@ These instructions allow you to (temporarily) disable ctrl+w in Firefox, so you'
 - Search bar: "close-shortcut"  
 - Right click: delete node  
 
+### After restarting firefox, the setting will be restored, and you may need to delete it again.
+
 ### Step 1 image
 ![Step 1](STEP1.jpg)  
 
